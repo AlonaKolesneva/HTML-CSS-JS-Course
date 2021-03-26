@@ -1,2 +1,2 @@
 # HTML-CSS-JS-Coursse
-Coursera course
+Coursera Johns Hopkins University course
