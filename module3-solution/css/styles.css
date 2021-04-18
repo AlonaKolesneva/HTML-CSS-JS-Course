@@ -1,0 +1,40 @@
+/********** Base styles **********/
+* {
+    box-sizing: border-box;
+    margin-right: 0;
+    padding: 0;
+}
+
+.navbar-brand {
+
+    word-break: break-all;
+    overflow: hidden
+}
+
+h3 {
+    text-align: center;
+}
+
+
+.grey {
+    background-color: dimgrey;
+
+}
+
+.nav-link {
+    margin: 0;
+    padding: 0;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.box{
+    box-sizing: border-box;
+    border: 10px solid transparent;
+    background-clip:padding-box;
+    background-color: dimgrey;
+}
+
+/*div > div > div {*/
+/*    background-color: dimgrey;*/
+/*}*/
